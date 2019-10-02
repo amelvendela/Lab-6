@@ -1,0 +1,17 @@
+Vad representerar parametern stmt?
+The statement you want to measure
+
+
+Vad representerar parametern number?
+Antalet gånger som den ska köra igenom funktionen
+"How many times to execute "statement"
+"Number of executions you'd like to run the statement"
+
+
+Vad är det timeit tar tid på?
+Det tar tid på små bitar av koden. Dvs hur lång tid de tar att köras.
+"This module provides a simple way to time small bits of Python code"
+
+Vad skrivs ut av ett anrop av timeit?
+Tiden det tog att köra exempelvis en funktion.
+
